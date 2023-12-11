@@ -1,0 +1,39 @@
+﻿body {
+    background-color: lightgreen
+}
+
+div {
+    display: grid;
+    place-items: center;
+}
+
+.center {
+    margin: auto;
+    text-align: center;
+    overflow: auto;
+    justify-content: center;
+    align-items: center;
+    background-color: cornsilk;
+    color: black;
+}
+
+table {
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    overflow: auto;
+    background-color: cornsilk;
+    color: black;
+}
+
+button {
+    background-color: black;
+    border-radius: 7%;
+    overflow: auto;
+    margin: 150px;
+}
+.Label {
+    overflow: auto;
+    margin: 150px;
+}
