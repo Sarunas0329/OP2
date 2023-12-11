@@ -1,0 +1,12 @@
+2021/12/03;Team E;Smith;John;12;9;1
+2021/12/03;Team E;Johnson;Lisa;14;11;2
+2021/12/03;Team E;Williams;Robert;13;8;1
+2021/12/03;Team E;Jones;Emily;15;16;3
+2021/12/03;Team E;Brown;Michael;16;14;2
+2021/12/03;Team E;Miller;Emily;12;10;1
+2021/12/03;Team F;Smith;John;12;9;1
+2021/12/03;Team F;Johnson;Lisa;14;11;2
+2021/12/03;Team F;Williams;Robert;13;8;1
+2021/12/03;Team F;Jones;Emily;15;16;3
+2021/12/03;Team F;Brown;Michael;16;14;2
+2021/12/03;Team F;Miller;Emily;12;10;1

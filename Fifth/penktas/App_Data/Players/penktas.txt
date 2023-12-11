@@ -1,0 +1,12 @@
+2022/01/13;Team I;Clark;Thomas;15;13;2
+2022/01/13;Team I;Martin;Sarah;12;10;1
+2022/01/13;Team I;Harris;Daniel;14;12;2
+2022/01/13;Team I;Walker;Olivia;13;9;1
+2022/01/13;Team I;Davis;David;12;11;2
+2022/01/13;Team I;Wilson;Sarah;16;17;3
+2022/01/13;Team J;Smith;John;12;9;1
+2022/01/13;Team J;Johnson;Lisa;14;11;2
+2022/01/13;Team J;Williams;Robert;13;8;1
+2022/01/13;Team J;Jones;Emily;15;16;3
+2022/01/13;Team J;Brown;Michael;16;14;2
+2022/01/13;Team J;Miller;Emily;12;10;1

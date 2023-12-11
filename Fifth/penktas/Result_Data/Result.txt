@@ -1,0 +1,113 @@
+------------------------------------------------------------------------------------------------------------------
+| Team name       | Surname              | Name            | Played minutes  | Scored points   | Earned faults   |
+------------------------------------------------------------------------------------------------------------------
+| Team G          | Smith                | John            |              12 |              12 |               1 |
+| Team G          | Johnson              | Emily           |              13 |               8 |               0 |
+| Team G          | Williams             | Michael         |              10 |              16 |               4 |
+| Team G          | Brown                | Emma            |               9 |              14 |               2 |
+| Team G          | Jones                | David           |              15 |              10 |               3 |
+| Team G          | Davis                | Sarah           |              11 |               9 |               1 |
+| Team H          | Smith                | John            |              16 |              22 |               2 |
+| Team H          | Johnson              | Emily           |              14 |               6 |               1 |
+| Team H          | Williams             | Michael         |               9 |               8 |               0 |
+| Team H          | Brown                | Emma            |              13 |              15 |               3 |
+| Team H          | Jones                | David           |              10 |              11 |               2 |
+| Team H          | Davis                | Sarah           |              12 |              10 |               2 |
+| Team I          | Smith                | John            |              14 |              16 |               3 |
+| Team I          | Johnson              | Emily           |              12 |              10 |               1 |
+| Team I          | Williams             | Michael         |              13 |              12 |               2 |
+| Team I          | Brown                | Emma            |               8 |              14 |               4 |
+| Team I          | Jones                | David           |              15 |              18 |               0 |
+| Team I          | Davis                | Sarah           |              11 |              11 |               3 |
+| Team J          | Smith                | John            |              10 |              12 |               2 |
+| Team J          | Johnson              | Emily           |               9 |              10 |               0 |
+| Team J          | Williams             | Michael         |              14 |              16 |               4 |
+| Team J          | Brown                | Emma            |              12 |               8 |               1 |
+| Team J          | Jones                | David           |              11 |              14 |               3 |
+| Team J          | Davis                | Sarah           |              16 |              20 |               2 |
+| Team K          | Smith                | John            |              13 |               9 |               1 |
+| Team K          | Johnson              | Emily           |               8 |              16 |               2 |
+| Team K          | Williams             | Michael         |              15 |              15 |               4 |
+| Team K          | Brown                | Emma            |              10 |              12 |               0 |
+| Team K          | Jones                | David           |               9 |               8 |               3 |
+| Team K          | Davis                | Sarah           |              14 |              11 |               2 |
+| Team L          | Smith                | John            |              12 |              18 |               1 |
+| Team L          | Johnson              | Emily           |              11 |               6 |               0 |
+| Team L          | Williams             | Michael         |              16 |              20 |               3 |
+| Team L          | Brown                | Emma            |              13 |              14 |               2 |
+| Team L          | Jones                | David           |              10 |               9 |               4 |
+| Team L          | Davis                | Sarah           |               9 |              16 |               1 |
+| Team E          | Smith                | John            |              14 |              20 |               0 |
+| Team E          | Johnson              | Emily           |              13 |               6 |               2 |
+| Team E          | Williams             | Michael         |               8 |              14 |               3 |
+| Team E          | Brown                | Emma            |              12 |              12 |               1 |
+| Team E          | Jones                | David           |              11 |               8 |               4 |
+| Team E          | Davis                | Sarah           |               9 |              16 |               2 |
+| Team F          | Smith                | John            |              16 |              14 |               3 |
+| Team F          | Johnson              | Emily           |              10 |              10 |               1 |
+| Team F          | Williams             | Michael         |              15 |              18 |               0 |
+| Team F          | Brown                | Emma            |               9 |               7 |               2 |
+| Team F          | Jones                | David           |               8 |              11 |               4 |
+| Team F          | Davis                | Sarah           |              14 |              12 |               2 |
+------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+| Team name       | Surname              | Name            | Position        |
+------------------------------------------------------------------------------
+| Team E          | Smith                | John            | centras         |
+| Team E          | Johnson              | Emily           | puolejas        |
+| Team E          | Williams             | Michael         | gynejas         |
+| Team E          | Brown                | Emma            | centras         |
+| Team E          | Jones                | David           | puolejas        |
+| Team E          | Davis                | Sarah           | gynejas         |
+| Team F          | Smith                | John            | gynejas         |
+| Team F          | Johnson              | Emily           | centras         |
+| Team F          | Williams             | Michael         | puolejas        |
+| Team F          | Brown                | Emma            | gynejas         |
+| Team F          | Jones                | David           | centras         |
+| Team F          | Davis                | Sarah           | puolejas        |
+| Team G          | Smith                | John            | puolejas        |
+| Team G          | Johnson              | Emily           | gynejas         |
+| Team G          | Williams             | Michael         | centras         |
+| Team G          | Brown                | Emma            | puolejas        |
+| Team G          | Jones                | David           | centras         |
+| Team G          | Davis                | Sarah           | gynejas         |
+| Team H          | Smith                | John            | gynejas         |
+| Team H          | Johnson              | Emily           | centras         |
+| Team H          | Williams             | Michael         | puolejas        |
+| Team H          | Brown                | Emma            | gynejas         |
+| Team H          | Jones                | David           | centras         |
+| Team H          | Davis                | Sarah           | puolejas        |
+| Team I          | Smith                | John            | gynejas         |
+| Team I          | Johnson              | Emily           | centras         |
+| Team I          | Williams             | Michael         | puolejas        |
+| Team I          | Brown                | Emma            | gynejas         |
+| Team I          | Jones                | David           | centras         |
+| Team I          | Davis                | Sarah           | centras         |
+| Team J          | Smith                | John            | puolejas        |
+| Team J          | Johnson              | Emily           | centras         |
+| Team J          | Williams             | Michael         | gynejas         |
+| Team J          | Brown                | Emma            | puolejas        |
+| Team J          | Jones                | David           | gynejas         |
+| Team J          | Davis                | Sarah           | puolejas        |
+| Team K          | Smith                | John            | gynejas         |
+| Team K          | Johnson              | Emily           | centras         |
+| Team K          | Williams             | Michael         | puolejas        |
+| Team K          | Brown                | Emma            | gynejas         |
+| Team K          | Jones                | David           | centras         |
+| Team K          | Davis                | Sarah           | centras         |
+| Team L          | Smith                | John            | puolejas        |
+| Team L          | Johnson              | Emily           | centras         |
+| Team L          | Williams             | Michael         | gynejas         |
+| Team L          | Brown                | Emma            | puolejas        |
+| Team L          | Jones                | David           | gynejas         |
+| Team L          | Davis                | Sarah           | gynejas         |
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------
+| Team name       | Surname              | Name            | Played minutes  | Scored points   | Earned faults   |
+------------------------------------------------------------------------------------------------------------------
+| Team F          | Johnson              | Emily           |              10 |              10 |               1 |
+| Team G          | Jones                | David           |              15 |              10 |               3 |
+| Team H          | Johnson              | Emily           |              14 |               6 |               1 |
+| Team K          | Jones                | David           |               9 |               8 |               3 |
+| Team L          | Johnson              | Emily           |              11 |               6 |               0 |
+------------------------------------------------------------------------------------------------------------------

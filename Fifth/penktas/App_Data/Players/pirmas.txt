@@ -1,0 +1,12 @@
+2023/02/22;Team A;Smith;John;12;9;1
+2023/02/22;Team A;Johnson;Lisa;14;11;2
+2023/02/22;Team A;Williams;Robert;13;8;1
+2023/02/22;Team A;Jones;Emily;15;16;3
+2023/02/22;Team A;Brown;Michael;16;14;2
+2023/02/22;Team A;Miller;Emily;12;10;1
+2023/02/22;Team B;Clark;Thomas;15;13;2
+2023/02/22;Team B;Martin;Sarah;12;10;1
+2023/02/22;Team B;Harris;Daniel;14;12;2
+2023/02/22;Team B;Walker;Olivia;13;9;1
+2023/02/22;Team B;Davis;David;12;11;2
+2023/02/22;Team B;Wilson;Sarah;16;17;3

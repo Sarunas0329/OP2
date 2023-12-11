@@ -1,0 +1,12 @@
+2020/03/17;Team C;Smith;John;12;9;1
+2020/03/17;Team C;Johnson;Lisa;14;11;2
+2020/03/17;Team C;Williams;Robert;13;8;1
+2020/03/17;Team C;Jones;Emily;15;16;3
+2020/03/17;Team C;Brown;Michael;16;14;2
+2020/03/17;Team C;Miller;Emily;12;10;1
+2020/03/17;Team D;Clark;Thomas;15;13;2
+2020/03/17;Team D;Martin;Sarah;12;10;1
+2020/03/17;Team D;Harris;Daniel;14;12;2
+2020/03/17;Team D;Walker;Olivia;13;9;1
+2020/03/17;Team D;Davis;David;12;11;2
+2020/03/17;Team D;Wilson;Sarah;16;17;3

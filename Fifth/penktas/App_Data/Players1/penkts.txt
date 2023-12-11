@@ -1,0 +1,12 @@
+2015/06/22;Team I;Smith;John;14;16;3
+2015/06/22;Team I;Johnson;Emily;12;10;1
+2015/06/22;Team I;Williams;Michael;13;12;2
+2015/06/22;Team I;Brown;Emma;8;14;4
+2015/06/22;Team I;Jones;David;15;18;0
+2015/06/22;Team I;Davis;Sarah;11;11;3
+2015/06/22;Team J;Smith;John;10;12;2
+2015/06/22;Team J;Johnson;Emily;9;10;0
+2015/06/22;Team J;Williams;Michael;14;16;4
+2015/06/22;Team J;Brown;Emma;12;8;1
+2015/06/22;Team J;Jones;David;11;14;3
+2015/06/22;Team J;Davis;Sarah;16;20;2

@@ -1,0 +1,12 @@
+2022/08/14;Team G;Smith;John;12;12;1
+2022/08/14;Team G;Johnson;Emily;13;8;0
+2022/08/14;Team G;Williams;Michael;10;16;4
+2022/08/14;Team G;Brown;Emma;9;14;2
+2022/08/14;Team G;Jones;David;15;10;3
+2022/08/14;Team G;Davis;Sarah;11;9;1
+2022/08/14;Team H;Smith;John;16;22;2
+2022/08/14;Team H;Johnson;Emily;14;6;1
+2022/08/14;Team H;Williams;Michael;9;8;0
+2022/08/14;Team H;Brown;Emma;13;15;3
+2022/08/14;Team H;Jones;David;10;11;2
+2022/08/14;Team H;Davis;Sarah;12;10;2

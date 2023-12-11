@@ -1,0 +1,12 @@
+2021/09/29;Team K;Smith;John;13;9;1
+2021/09/29;Team K;Johnson;Emily;8;16;2
+2021/09/29;Team K;Williams;Michael;15;15;4
+2021/09/29;Team K;Brown;Emma;10;12;0
+2021/09/29;Team K;Jones;David;9;8;3
+2021/09/29;Team K;Davis;Sarah;14;11;2
+2021/09/29;Team L;Smith;John;12;18;1
+2021/09/29;Team L;Johnson;Emily;11;6;0
+2021/09/29;Team L;Williams;Michael;16;20;3
+2021/09/29;Team L;Brown;Emma;13;14;2
+2021/09/29;Team L;Jones;David;10;9;4
+2021/09/29;Team L;Davis;Sarah;9;16;1

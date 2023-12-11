@@ -1,0 +1,12 @@
+2021/06/27;Team G;Clark;Thomas;15;13;2
+2021/06/27;Team G;Martin;Sarah;12;10;1
+2021/06/27;Team G;Harris;Daniel;14;12;2
+2021/06/27;Team G;Walker;Olivia;13;9;1
+2021/06/27;Team G;Davis;David;12;11;2
+2021/06/27;Team G;Wilson;Sarah;16;17;3
+2021/06/27;Team H;Smith;John;12;9;1
+2021/06/27;Team H;Johnson;Lisa;14;11;2
+2021/06/27;Team H;Williams;Robert;13;8;1
+2021/06/27;Team H;Jones;Emily;15;16;3
+2021/06/27;Team H;Brown;Michael;16;14;2
+2021/06/27;Team H;Miller;Emily;12;10;1
