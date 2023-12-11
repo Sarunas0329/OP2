@@ -1,0 +1,42 @@
+﻿body {
+    background-color:grey
+}
+
+div {
+    display: grid;
+    place-items: center;
+}
+.center {
+    margin: auto;
+    text-align: center;
+    overflow: auto;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+    color: black;
+}
+table {
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    overflow: auto;
+    background-color: antiquewhite;
+    color: black;
+}
+.textBox {
+    border-radius: 7%;
+    background-color: grey;
+    border: 0.5px solid brown;
+}
+.lab {
+    font-size: 20px;
+    font: bolder;
+}
+button {
+    background-color: black;
+    border-radius: 7%;
+    overflow: auto;
+    margin: 50px;
+}
+

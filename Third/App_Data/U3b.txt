@@ -1,0 +1,4 @@
+Pirmas;Pirmo gatve 1;6;3;32456;4
+Antras;Antro kaimas 6;1;12;12345;5
+Trecias;Trecio prospektas 165a;4;5;65487;3
+Ketvirtas;Ketvirto gatve 9;8;2;32456;2
